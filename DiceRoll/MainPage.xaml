@@ -23,7 +23,12 @@
                 Style="{StaticResource SubHeadline}"
                 SemanticProperties.HeadingLevel="Level2"
                 SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+            <RadioButton
+                x:Name="K6"
+                Value="6"
+                Content="Rzut K6"/>
 
+            
             <Button
                 x:Name="CounterBtn"
                 Text="Click me" 
